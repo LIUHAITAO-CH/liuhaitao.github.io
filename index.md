@@ -9,7 +9,7 @@
       <p><b>地址：北京市海淀区学院路37号北京航空航天大学，新主楼</b></p>
     </td>
     <td width="25%">
-      <img src="E:\我的证件照\github.jpg" width="100%">      % 插入证件照代码
+      <img src="E:\photos\github.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
