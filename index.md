@@ -1,8 +1,32 @@
+# 个人信息
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>刘海涛</h1>
+      <p><b>博士研究生</b></p>
+      <p><b></b></p>
+      <p><b>邮箱：9126565452@qq.com</b></p>
+      <p><b>地址：北京市海淀区学院路37号北京航空航天大学，新主楼</b></p>
+    </td>
+    <td width="25%">
+      <img src="E:\我的证件照\github.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LIUHAITAO-CH/liuhaitao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
